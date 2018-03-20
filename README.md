@@ -7,12 +7,12 @@ This project is an attempt at simulating the drawing process of abstract modern 
 Download and execute the executable.
 Promising values have been 1000 px Size and 1000 Strokes.
 
-![produced image by the code](artwork1.png)
+![produced image by the artist](artwork1.png)
 
 
 ## How do I build this myself?
 
-Set up an OpenCV installation on your computer (I will not go into the details, descriptions are to be found in the interenet). 
+Set up an OpenCV installation on your computer (I will not go into the details, descriptions are to be found [in the internet](https://docs.opencv.org/2.4/doc/tutorials/introduction/table_of_content_introduction/table_of_content_introduction.html#table-of-content-introduction)). 
 Include the cpp file in your projects folder.
 
 
