@@ -4,7 +4,7 @@ This project is an attempt at simulating the drawing process of abstract modern 
 
 ## How do I use this?
 
-Download and execute the executable.
+Download and execute the executable. You will likely need to also download the latest version of OpenCV and include the bin folder in your PATH variable.
 Promising values have been 1000 px Size and 1000 Strokes.
 
 ![produced image by the artist](artwork1.png)
